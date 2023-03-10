@@ -1,0 +1,151 @@
+# depslib dependency file v1.0
+1667763005 source:c:\users\hassa\desktop\california\datastructures\linkedlisttest.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+
+1667763033 c:\users\hassa\desktop\california\datastructures\linkedlist.h
+	<stdbool.h>
+
+1667764726 source:c:\users\hassa\desktop\california\datastructures\arraytest.c
+	<stdio.h>
+	<stdlib.h>
+	"Array.h"
+
+1667764473 c:\users\hassa\desktop\california\datastructures\array.h
+
+1667772649 source:c:\users\hassa\desktop\california\datastructures\arraydynamic.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"ArrayDynamic.h"
+
+1667766995 source:c:\users\hassa\desktop\california\datastructures\arraystatic.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"ArrayStatic.h"
+
+1667766362 c:\users\hassa\desktop\california\datastructures\arraystatic.h
+
+1667767077 source:c:\users\hassa\desktop\california\datastructures\arraystatictest.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"ArrayStatic.h"
+
+1667772615 source:c:\users\hassa\desktop\california\datastructures\arraydynamictest.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"ArrayDynamic.h"
+
+1667772725 c:\users\hassa\desktop\california\datastructures\arraydynamic.h
+
+1667783254 source:c:\users\hassa\desktop\california\datastructures\singlelinkedlisttest.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"SingleLinkedList.h"
+
+1668743420 c:\users\hassa\desktop\california\datastructures\singlelinkedlist.h
+	<stdbool.h>
+
+1668743393 source:c:\users\hassa\desktop\california\datastructures\singlelinkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<assert.h>
+	"SingleLinkedList.h"
+
+1667794992 source:c:\users\hassa\desktop\california\datastructures\doublelinkedlisttest.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"doubleLinkedList.h"
+
+1668575516 source:c:\users\hassa\desktop\california\datastructures\doublelinkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"DoubleLinkedList.h"
+
+1667795228 c:\users\hassa\desktop\california\datastructures\doublelinkedlist.h
+	<stdbool.h>
+
+1668305519 source:c:\users\hassa\desktop\california\datastructures\stackarray.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"StackArray.h"
+
+1668283292 c:\users\hassa\desktop\california\datastructures\stackarray.h
+	<stdbool.h>
+
+1668305550 source:c:\users\hassa\desktop\california\datastructures\stackarraytest.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"StackArray.h"
+
+1668304403 source:c:\users\hassa\desktop\california\datastructures\stacklist.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"StackList.h"
+
+1668304600 c:\users\hassa\desktop\california\datastructures\stacklist.h
+	"SingleLinkedList.h"
+
+1668303839 source:c:\users\hassa\desktop\california\datastructures\stacklisttest.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"StackList.h"
+
+1668363496 source:c:\users\hassa\desktop\california\datastructures\queuearraytest.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"QueueArray.h"
+
+1668363547 c:\users\hassa\desktop\california\datastructures\queuearray.h
+	<stdbool.h>
+
+1668363695 source:c:\users\hassa\desktop\california\datastructures\queuearray.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"QueueArray.h"
+
+1668575605 source:c:\users\hassa\desktop\california\datastructures\queuelisttest.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"QueueList.h"
+
+1668570330 c:\users\hassa\desktop\california\datastructures\queuelist.h
+	<stdbool.h>
+	"DoubleLinkedList.h"
+
+1668575279 source:c:\users\hassa\desktop\california\datastructures\queuelist.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"QueueList.h"
+
+1668743542 source:c:\users\hassa\desktop\california\datastructures\hashtabletest.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"HashTable.h"
+
+1668740291 c:\users\hassa\desktop\california\datastructures\hashtable.h
+	"SingleLinkedList.h"
+
+1668743460 source:c:\users\hassa\desktop\california\datastructures\hashtable.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"HashTable.h"
+
